@@ -1,0 +1,1 @@
+alert("I'm showing this from another file called myAlert.js");
